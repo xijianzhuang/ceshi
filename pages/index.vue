@@ -1,6 +1,6 @@
 <template>
   <div>
-    袭建壮的测试项目首页
+    啦啦啦 袭建壮的测试项目首页
   </div>
 </template>
 
